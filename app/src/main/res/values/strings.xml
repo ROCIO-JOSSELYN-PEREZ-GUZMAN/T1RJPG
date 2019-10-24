@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">T1RJPG</string>
+    <string name="TITULO1">TECNOLOGICO DE ESTUDIOS SUPERIORES DEL ORIENTE DEL ESTADO DE MEXICO</string>
+    <string name="TITULO2">DISPOSITIVOS MOVILES</string>
+    <string name="TITULO3">DE LA O MARTINEZ VICTOR HUGO</string>
+    <string name="TITULO4">CALCULADORA BASICA</string>
+    <string name="TITULO5">PEREZ GUZMAN ROCIO JOSSELYN</string>
+    <string name="TITULO6">Dato1:</string>
+    <string name="TITULO7">Dato2:</string>
+    <string name="TITULO8">Resultado:</string>
+    <string name="button1">Calcular</string>
+    <string name="TITULO9">Operaciones basicas</string>
+    <string name="TITULO10">Ingrese el numero de la operacion que deseé</string>
+    <string name="TITULO11">1.- Suma</string>
+    <string name="TITULO12">2.- Resta</string>
+    <string name="TITULO13">3.- Multiplicacion </string>
+    <string name="TITULO14">4.- Division </string>
+    <string name="button2">Ingresar</string>
+    <string name="burron3">regresar</string>
+</resources>
